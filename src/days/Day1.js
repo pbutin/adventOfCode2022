@@ -19,7 +19,7 @@ function Day1() {
 
     console.log(sumCalories[0] + sumCalories[1] +sumCalories[2])
 
-    setMaxCalories([sumCalories[0],sumCalories[1],sumCalories[2]]);
+    // setMaxCalories([sumCalories[0],sumCalories[1],sumCalories[2]]);
 
     return (
         <div className="App">
